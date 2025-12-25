@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wolf Strikes\n"
+"POT-Creation-Date: 2025-12-26 00:00+0000\n"
+"PO-Revision-Date: 2025-12-26 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+msgid "Home"
+msgstr "الرئيسية"
+
+msgid "About"
+msgstr "من نحن"
+
+msgid "Projects"
+msgstr "المشاريع"
+
+msgid "Team"
+msgstr "الفريق"
+
+msgid "Contact"
+msgstr "تواصل"
+
+msgid "Innovative robotics team pushing the boundaries of technology and innovation."
+msgstr "فريق روبوتات مبتكر يدفع حدود التقنية والابتكار."
+
+msgid "Quick Links"
+msgstr "روابط سريعة"
+
+msgid "Our Mission"
+msgstr "مهمتنا"
+
+msgid "To inspire innovation and build the next generation of robotics engineers through cutting-edge technology and teamwork."
+msgstr "إلهام الابتكار وبناء الجيل القادم من مهندسي الروبوتات عبر التقنيات المتقدمة والعمل الجماعي."
+
+msgid "Innovative Robotics Team Pushing the Boundaries of Technology"
+msgstr "فريق روبوتات مبتكر يدفع حدود التكنولوجيا"
+
+msgid "Explore Projects"
+msgstr "استكشف المشاريع"
+
+msgid "Get In Touch"
+msgstr "تواصل معنا"
+
+msgid "What We Do"
+msgstr "ماذا نفعل"
+
+msgid "Cutting-edge robotics solutions for the future"
+msgstr "حلول روبوتية متقدمة للمستقبل"
+
+msgid "Design Lab"
+msgstr "مختبر التصميم"
+
+msgid "Advanced Design"
+msgstr "تصميم متقدم"
+
+msgid "We design state-of-the-art robots using cutting-edge technology and innovative approaches."
+msgstr "نصمم روبوتات متطورة باستخدام أحدث التقنيات وأساليب مبتكرة."
+
+msgid "Rapid prototyping and CAD"
+msgstr "نمذجة سريعة وتصميم CAD"
+
+msgid "Human-centered research"
+msgstr "أبحاث متمحورة حول الإنسان"
+
+msgid "Simulation-driven iterations"
+msgstr "تكرارات مدفوعة بالمحاكاة"
+
+msgid "Engineering Core"
+msgstr "قلب الهندسة"
+
+msgid "Precision Engineering"
+msgstr "هندسة دقيقة"
+
+msgid "Our team combines mechanical, electrical, and software engineering to create high-performance systems."
+msgstr "يجمع فريقنا بين الهندسة الميكانيكية والكهربائية والبرمجية لبناء أنظمة عالية الأداء."
+
+msgid "Electronics, mechanics, and control integration"
+msgstr "تكامل الإلكترونيات والميكانيكا والتحكم"
+
+msgid "Embedded systems programming"
+msgstr "برمجة الأنظمة المدمجة"
+
+msgid "Reliability testing"
+msgstr "اختبارات الاعتمادية"
+
+msgid "Competitive Edge"
+msgstr "أفضلية تنافسية"
+
+msgid "Award-Winning"
+msgstr "حائزة على جوائز"
+
+msgid "We've achieved recognition at national and international robotics competitions."
+msgstr "حققنا اعترافاً في مسابقات الروبوتات المحلية والدولية."
+
+msgid "Strategy and scouting"
+msgstr "استراتيجية واستكشاف"
+
+msgid "Field-ready prototypes"
+msgstr "نماذج جاهزة للميدان"
+
+msgid "Awards and recognition"
+msgstr "جوائز واعترافات"
+
+msgid "About Us"
+msgstr "من نحن"
+
+msgid "About Wolf Strikes"
+msgstr "عن وولف سترايكس"
+
+msgid "Leading the Future of Robotics Innovation"
+msgstr "نقود مستقبل ابتكار الروبوتات"
+
+msgid ""
+"Wolf Strikes is dedicated to developing innovative robotic solutions that push the boundaries of technology and engineering. We combine cutting-edge research, creative problem-solving, and meticulous engineering to create robots that make a real difference."
+msgstr ""
+"وولف سترايكس مكرس لتطوير حلول روبوتية مبتكرة تدفع حدود التكنولوجيا والهندسة. نجمع بين الأبحاث المتقدمة وحل المشكلات الإبداعي والهندسة الدقيقة لصنع روبوتات تُحدث فرقاً حقيقياً."
+
+msgid "Our Values"
+msgstr "قيمنا"
+
+msgid "Innovation"
+msgstr "الابتكار"
+
+msgid "Constantly pushing the limits of what's possible in robotics and automation."
+msgstr "ندفع باستمرار حدود الممكن في الروبوتات والأتمتة."
+
+msgid "Collaboration"
+msgstr "التعاون"
+
+msgid "We work as a unified team where every member contributes their expertise to achieve our collective goals."
+msgstr "نعمل كفريق واحد يساهم فيه كل عضو بخبرته لتحقيق أهدافنا المشتركة."
+
+msgid "Excellence"
+msgstr "التميز"
+
+msgid "We strive for excellence in every aspect of our work, from design to implementation and testing."
+msgstr "نسعى للتميز في كل جانب من عملنا، من التصميم إلى التنفيذ والاختبار."
+
+msgid "Our Story"
+msgstr "قصتنا"
+
+msgid ""
+"In 2025, a new spark of innovation lit up within Libya's growing tech community. At the heart of this spark stood Amal Bwaer, a fifteen-year-old girl whose ambitions were far greater than her age. Driven by curiosity and a desire to build something meaningful, she founded Wolf Strikes, a robotics team that would soon become a gathering point for some of the brightest young minds in the country."
+msgstr ""
+"في عام 2025، اشتعلت شرارة جديدة من الابتكار داخل مجتمع التكنولوجيا المتنامي في ليبيا. وفي قلب هذه الشرارة كانت أمل بوير، فتاة في الخامسة عشرة من عمرها كانت طموحاتها أكبر بكثير من سنها. بدافع الفضول والرغبة في بناء شيء ذي معنى، أسست فريق وولف سترايكس للروبوتات، الذي سرعان ما أصبح نقطة تجمع لبعض ألمع العقول الشابة في البلاد."
+
+msgid ""
+"What started as a small dream quickly evolved into a vision. The team worked together not just to build robots, but to build confidence, knowledge, and a supportive community. Their sessions were filled with brainstorming, testing, failing, learning, and trying again — because for them, robotics was more than circuits and code; it was a journey of growth."
+msgstr ""
+"ما بدأ كحلم صغير تطور بسرعة إلى رؤية. عمل الفريق معاً ليس فقط لبناء روبوتات، بل لبناء الثقة والمعرفة ومجتمع داعم. كانت جلساتهم مليئة بالعصف الذهني والاختبار والإخفاق والتعلم والمحاولة مرة أخرى — لأن الروبوتات بالنسبة لهم كانت أكثر من دوائر وشيفرات؛ كانت رحلة نمو."
+
+msgid "Join Our Mission"
+msgstr "انضم إلى مهمتنا"
+
+msgid "Be part of the robotics revolution and help us shape the future."
+msgstr "كن جزءاً من ثورة الروبوتات وساعدنا في تشكيل المستقبل."
+
+msgid "Our Projects"
+msgstr "مشاريعنا"
+
+msgid "A showcase of our innovation and engineering excellence."
+msgstr "عرض لابتكارنا وتميزنا الهندسي."
+
+msgid "New Projects Launching Soon!"
+msgstr "مشاريع جديدة قريباً!"
+
+msgid ""
+"Our team is working hard behind the scenes to develop the next generation of robotic solutions.\n"
+"            We are excited to unveil our latest projects soon. Stay tuned for groundbreaking innovations!"
+msgstr ""
+"يعمل فريقنا بجد خلف الكواليس لتطوير الجيل القادم من حلول الروبوتات.\n"
+"            نحن متحمسون للكشف عن أحدث مشاريعنا قريباً. ترقبوا ابتكارات رائدة!"
+
+msgid "Get Notified"
+msgstr "أشعرني"
+
+msgid "Contact Us"
+msgstr "تواصل معنا"
+
+msgid "We'd love to hear from you. Let's build the future together."
+msgstr "يسعدنا سماعك. لنَبْنِ المستقبل معاً."
+
+msgid "Contact Page Under Construction"
+msgstr "صفحة التواصل قيد الإنشاء"
+
+msgid ""
+"Our contact form is being finalized. In the meantime, you can reach us via email.\n"
+"            We look forward to connecting with you!"
+msgstr ""
+"نموذج التواصل قيد الإنهاء. في الوقت الحالي، يمكنك التواصل معنا عبر البريد الإلكتروني.\n"
+"            نتطلع للتواصل معك!"
+
+msgid "Meet the Team"
+msgstr "تعرف على الفريق"
+
+msgid "The innovative minds behind Wolf Strikes."
+msgstr "العقول المبتكرة وراء وولف سترايكس."
+
+msgid "Leadership"
+msgstr "القيادة"
+
+msgid "Team Founder"
+msgstr "مؤسس الفريق"
+
+msgid "An ambitious and young founder with strong skills in leadership and youth project management."
+msgstr "مؤسسة شابة طموحة بمهارات قوية في القيادة وإدارة مشاريع الشباب."
+
+msgid "Creativity"
+msgstr "الإبداع"
+
+msgid "Organization"
+msgstr "التنظيم"
+
+msgid "Programming"
+msgstr "البرمجة"
+
+msgid "Head of Programming"
+msgstr "رئيس البرمجة"
+
+msgid "An expert programmer leading the development department, skilled in software development and problem-solving."
+msgstr "مبرمج خبير يقود قسم التطوير، ماهر في تطوير البرمجيات وحل المشكلات."
+
+msgid "Web Dev"
+msgstr "تطوير الويب"
+
+msgid "Problem-Solving"
+msgstr "حل المشكلات"
+
+msgid "Media"
+msgstr "الإعلام"
+
+msgid "Head of Media"
+msgstr "رئيس الإعلام"
+
+msgid "A creative media specialist, skilled in content creation and managing the team's visual identity."
+msgstr "مختص إعلامي مبدع، ماهر في صناعة المحتوى وإدارة الهوية البصرية للفريق."
+
+msgid "Design"
+msgstr "التصميم"
+
+msgid "Editing"
+msgstr "المونتاج"
+
+msgid "Photography"
+msgstr "التصوير"

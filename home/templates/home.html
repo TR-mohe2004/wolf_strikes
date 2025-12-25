@@ -35,27 +35,48 @@
         <p>{% trans "Cutting-edge robotics solutions for the future" %}</p>
     </div>
 
-    <div class="features-grid">
-        <!-- Feature Card 1 -->
-        <div class="feature-card">
-            <i class="fas fa-drafting-compass feature-card__icon"></i>
+    <div class="features-grid features-grid--pro">
+        <article class="feature-card feature-card--pro">
+            <div class="feature-card__top">
+                <i class="fas fa-drafting-compass feature-card__icon"></i>
+                <span class="feature-card__pill">{% trans "Design Lab" %}</span>
+            </div>
             <h3>{% trans "Advanced Design" %}</h3>
             <p>{% trans "We design state-of-the-art robots using cutting-edge technology and innovative approaches." %}</p>
-        </div>
+            <ul class="feature-card__list">
+                <li>{% trans "Rapid prototyping and CAD" %}</li>
+                <li>{% trans "Human-centered research" %}</li>
+                <li>{% trans "Simulation-driven iterations" %}</li>
+            </ul>
+        </article>
 
-        <!-- Feature Card 2 -->
-        <div class="feature-card">
-            <i class="fas fa-cogs feature-card__icon"></i>
+        <article class="feature-card feature-card--pro">
+            <div class="feature-card__top">
+                <i class="fas fa-cogs feature-card__icon"></i>
+                <span class="feature-card__pill">{% trans "Engineering Core" %}</span>
+            </div>
             <h3>{% trans "Precision Engineering" %}</h3>
             <p>{% trans "Our team combines mechanical, electrical, and software engineering to create high-performance systems." %}</p>
-        </div>
+            <ul class="feature-card__list">
+                <li>{% trans "Electronics, mechanics, and control integration" %}</li>
+                <li>{% trans "Embedded systems programming" %}</li>
+                <li>{% trans "Reliability testing" %}</li>
+            </ul>
+        </article>
 
-        <!-- Feature Card 3 -->
-        <div class="feature-card">
-            <i class="fas fa-trophy feature-card__icon"></i>
+        <article class="feature-card feature-card--pro">
+            <div class="feature-card__top">
+                <i class="fas fa-trophy feature-card__icon"></i>
+                <span class="feature-card__pill">{% trans "Competitive Edge" %}</span>
+            </div>
             <h3>{% trans "Award-Winning" %}</h3>
             <p>{% trans "We've achieved recognition at national and international robotics competitions." %}</p>
-        </div>
+            <ul class="feature-card__list">
+                <li>{% trans "Strategy and scouting" %}</li>
+                <li>{% trans "Field-ready prototypes" %}</li>
+                <li>{% trans "Awards and recognition" %}</li>
+            </ul>
+        </article>
     </div>
 </section>
 {% endblock %}
